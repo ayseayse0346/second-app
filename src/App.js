@@ -11,7 +11,7 @@ function App() {
     // ! Jsx(HTML-JS'nin birleşmiş halidir.)
     <div className="App">
      <h2 style={{color:"red"}}>Hoşgeldin Ya şehri react</h2>
-     <p>{deneme}</p>  
+     <p className="par">{deneme}</p>  
     </div>
   );
 }
